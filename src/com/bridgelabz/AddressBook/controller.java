@@ -21,6 +21,6 @@ public class controller {
         zip=InputUtil.getStringValue();
         System.out.println("Enter phone number");
         phone=InputUtil.getStringValue();
-
+        System.out.println("Thank you");
     }
 }
